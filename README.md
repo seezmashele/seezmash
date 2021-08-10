@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hello there! 🚀
 
+I'm an enthusiastic Software Engineer, and I spend most of my time programming in JavaScript and Next.js.
+I love front-end development, and I enjoy discovering tools and technologies that improve developer experience.
+
+Feel free to vist [my website](https://sizwe.vercel.app/), there's nothing going on there but hey.
 <!--
 **seezmash/seezmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
