@@ -1,12 +1,11 @@
 # Hello there! 🚀
 
-I am but a humble Javascript programmer who dabbles in the art of web development.
-Next.js and TailwindCSS are my current weapons of choice and I've recently dived into the world of Typescript.
-The remainder of my time is spent discovering tools that improve developer experience.
-I thank you yet again for stumbling across my most humble abode and further more for getting this far.
-I felt rather inspired to wax philosophic
-
-Feel free to vist [my website](https://sizwe.vercel.app/) where you'll find relatively little going on.
+- 🧙 I am but a humble Javascript programmer who dabbles in the art of front-end development.
+- ✨ I often wax philosophically about the wonders of Next.js and TailwindCSS.
+- 🖥️ My remaining time is spent discovering tools that improve the developer experience.
+- 🏡 Thank you for stumbling across my most humble abode and further more for getting this far.
+- 🌍 Feel free to vist [my website](https://sizwe.vercel.app/) where you'll find relatively little going on.
+- 
 <!--
 **seezmash/seezmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
