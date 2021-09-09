@@ -1,9 +1,12 @@
 # Hello there! 🚀
 
-I'm an enthusiastic Software Engineer, and I spend most of my time programming in JavaScript and Next.js.
-I love front-end development, and I enjoy discovering tools and technologies that improve developer experience.
+I am but a humble Javascript programmer who dabbles in the art of web development.
+Next.js and TailwindCSS are my current weapons of choice and I've recently dived into the world of Typescript.
+The remainder of my time is spent discovering tools that improve developer experience.
+I thank you yet again for stumbling across my most humble abode and further more for getting this far.
+I felt rather inspired to wax philosophic
 
-Feel free to vist [my website](https://sizwe.vercel.app/), there's nothing going on there but hey.
+Feel free to vist [my website](https://sizwe.vercel.app/) where you'll find relatively little going on.
 <!--
 **seezmash/seezmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
