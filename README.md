@@ -1,6 +1,6 @@
 # Hello there! 🚀
 
-- 🧙 I am but a humble programmer who dabbles in the art of front-end web development
+- 🧙 I am but a humble programmer who dabbles in front-end web development
 - 🌱 I often wax philosophic on the wonders of React and TailwindCSS
 - 💻 My remaining time is spent discovering the tools and technologies that make the internet a better place
 
