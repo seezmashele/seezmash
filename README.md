@@ -1,6 +1,6 @@
 # Hello there! 🧙
 
-- I am but a humble programmer who dabbles in front-end web development
+- I am but a humble frontend developer
 - My technologies of choice include React, TailwindCSS and Strapi
 - I spend my *"leisurely"* time trying new dev tools that make coding in general more enjoyable
 
