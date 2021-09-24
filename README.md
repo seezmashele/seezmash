@@ -1,4 +1,4 @@
-# Hello there! 🧙
+# Hello there. 🧙
 
 - I am but a humble frontend developer
 - My technologies of choice include React, TailwindCSS and Strapi
