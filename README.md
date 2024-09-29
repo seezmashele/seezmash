@@ -1,8 +1,8 @@
-# Hello there 🧙
-## I'm Sizwe. I am but a humble frontend developer!
+# Hey there 🧙
+## I'm Sizwe. A humble frontend dev.
 
-- 💻 My technologies of choice include React, TailwindCSS and Firebase
-- 🤓 I like to discover new dev tools, watch Anime and push experimental features to production!
+- 💻 My technologies of choice include React, TailwindCSS and Supabase.
+- 🤓 I like to find dev tools and libraries that keep coding fun and simple!
 
 ## My Tech Stack
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
