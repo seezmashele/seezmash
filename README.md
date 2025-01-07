@@ -1,7 +1,7 @@
 # Hey there 🧙
 ## I'm Sizwe. A humble frontend dev.
 
-- 💻 My technologies of choice include React, TailwindCSS and Supabase.
+- 💻 My technologies of choice include React, TailwindCSS and Directus.
 - 🤓 I like to find dev tools and frameworks that keep coding fun and simple!
 
 ## My Tech Stack
